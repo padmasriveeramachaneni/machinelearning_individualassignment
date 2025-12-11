@@ -1,7 +1,7 @@
 # machinelearning_individualassignment
 # Dropout and Regularization in Neural Networks
 
-**Author:** Padmasri Veeramachineni  
+**Author:** Padmasri Veeramachaneni  
 **Course:** Machine Learning Tutorial (Individual Assignment)  
 **University:** University of Hertfordshire  
 **Framework:** PyTorch  
